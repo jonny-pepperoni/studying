@@ -109,6 +109,8 @@ __Стандартный рабочий процесс с гитом__
 
 
 
+
+
 Заливаем готовый репозиторий в сеть (Github, и тп.)
 
 https://monsterlessons.com/project/lessons/git-kak-rabotayut-vetki
